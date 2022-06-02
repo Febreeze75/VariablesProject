@@ -1,0 +1,14 @@
+C:\Users\FeelGood\source\repos\VariablesExercise\VariablesExercise\bin\Debug\netcoreapp3.1\VariablesExercise.exe
+C:\Users\FeelGood\source\repos\VariablesExercise\VariablesExercise\bin\Debug\netcoreapp3.1\VariablesExercise.deps.json
+C:\Users\FeelGood\source\repos\VariablesExercise\VariablesExercise\bin\Debug\netcoreapp3.1\VariablesExercise.runtimeconfig.json
+C:\Users\FeelGood\source\repos\VariablesExercise\VariablesExercise\bin\Debug\netcoreapp3.1\VariablesExercise.runtimeconfig.dev.json
+C:\Users\FeelGood\source\repos\VariablesExercise\VariablesExercise\bin\Debug\netcoreapp3.1\VariablesExercise.dll
+C:\Users\FeelGood\source\repos\VariablesExercise\VariablesExercise\bin\Debug\netcoreapp3.1\VariablesExercise.pdb
+C:\Users\FeelGood\source\repos\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.csproj.AssemblyReference.cache
+C:\Users\FeelGood\source\repos\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FeelGood\source\repos\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.AssemblyInfoInputs.cache
+C:\Users\FeelGood\source\repos\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.AssemblyInfo.cs
+C:\Users\FeelGood\source\repos\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.csproj.CoreCompileInputs.cache
+C:\Users\FeelGood\source\repos\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.dll
+C:\Users\FeelGood\source\repos\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.pdb
+C:\Users\FeelGood\source\repos\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.genruntimeconfig.cache
